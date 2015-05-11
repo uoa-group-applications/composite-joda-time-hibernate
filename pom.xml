@@ -11,7 +11,7 @@
 
     <groupId>nz.ac.auckland.composite</groupId>
     <artifactId>composite-joda-time-hibernate</artifactId>
-    <version>1.3-SNAPSHOT</version>
+    <version>1.3</version>
     <packaging>jar</packaging>
     <name>composite-joda-time-hibernate</name>
 
@@ -44,7 +44,7 @@
         <url>https://github.com/uoa-group-applications/composite-joda-time-hibernate</url>
         <connection>scm:git:git@github.com:uoa-group-applications/composite-joda-time-hibernate.git</connection>
         <developerConnection>scm:git:git@github.com:uoa-group-applications/composite-joda-time-hibernate.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>composite-joda-time-hibernate-1.3</tag>
     </scm>
 
 </project>
